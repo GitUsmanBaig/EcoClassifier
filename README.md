@@ -1,8 +1,3 @@
-
-Here's a README.md file for your project that describes the use of VGG16 and MobileNetV2 models for garbage classification:
-
----
-
 # Garbage Classification Project Using VGG16 and MobileNetV2
 
 ## Project Overview
